@@ -1,4 +1,4 @@
-import { Produto } from './models/produto.ts';
+import { Produto } from './models/Produto.ts';
 import { Carrinho } from './models/Carrinho.ts';
 import { Vitrine } from './models/Vitrine.ts';
 import { Checkout } from './models/Checkout.ts';
