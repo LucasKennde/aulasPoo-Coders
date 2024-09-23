@@ -1,4 +1,4 @@
-# Primeira atividade em grupo.
+# Atividade em grupo.
 
 ## Fluxo de caixa
 
