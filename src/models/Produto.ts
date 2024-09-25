@@ -1,17 +1,11 @@
 export class Produto {
-    private _nome: string;
-    private _departamento: string;
-    private _id: number;
-    private _preco: number;
-    private _foto: string;
 
-    constructor(nome: string, departamento: string, id: number, preco: number, foto: string) {
-        this._nome = nome;
-        this._departamento = departamento;
-        this._id = id;
-        this._preco = preco;
-        this._foto = foto;
-    }
+    constructor(
+        private _nome: string, 
+        private _departamento: string, 
+        private _id: number, 
+        private _preco: number, 
+        private _foto: string) {}
 
 
     get nome(): string {
